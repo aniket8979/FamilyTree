@@ -11,12 +11,21 @@ A simple CLI implementation of family tree only using data structures in Java
 
 Queries:
 family-tree add Amit Dhakad
+
 family-tree add KK Dhakad
+
 family-tree add relationship father
+
 family-tree add relationship son
+
 family-tree connect Amit Dhakad as son of KK Dhakad
+
 family-tree connect KK Dhakad as father of Amit Dhakad
+
 family-tree count sons of KK Dhakad
+
 family-tree count daughters of KK Dhakad
+
 family-tree count wives of Amit Dhakad
+
 family-tree father of Amit Dhakad
